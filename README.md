@@ -22,7 +22,7 @@ Hi! I'm Sebastián.<br><br>I've been in the software industry for a while, learn
 [![](https://visitcount.itsvg.in/api?id=sebaszap123-dev&icon=0&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sfraustozdc) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@mfraustozapata) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sfraustozdc) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://paypal.me/@mfraustozapata](https://www.paypal.com/paypalme/mfraustozapata))
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
